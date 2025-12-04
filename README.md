@@ -5,35 +5,21 @@ I’m a trained application developer (IHK Fachinformatikerin für Anwendungsent
 ---
 
 ## 🎯 What drives me
+- I'm endlessly curious and love to solve problems (people always tell me i'm creative with that)
+- I like systems, but not to rigid ones.  
+- I enjoy working **remote** or in flexible environments.  
+- I use tools like [Boot.dev](https://boot.dev) to keep learning in an playful way
 
-- I'm endlessly curious. I need to learn new things to stay engaged.  
-- I like systems, but I don’t fit well into rigid ones.  
-- I thrive with structure I create myself – especially in **remote** or flexible environments.  
-- I use tools like [Boot.dev](https://boot.dev) to learn in an ADHD-friendly way, and it works far better for me than traditional schooling ever did.
+## 👋 "Hello, world!"
 
-## 👋 "Hello, world."
-
-I have `hello world` tattooed on my left forearm.
-
-It's more than the first line of code i ever wrote — it's a part of who I am.  
-To me, it stands for curiosity, openness, and the courage to begin.
-
----
-
-## 🛠 What you’ll find here
-
-Not just another calculator app. Instead, you'll find tools I built to be useful – to me, and maybe to you too.
-
-For example:
-- 📝 `NoteTime`: A personal memory system to store key learnings – and remids you when you forget what you've already figured out.
+`hello world` is tattooed on my left forearm.
 
 ---
 
 ## 🌱 Looking forward
 
- I’m looking for a parttime or working student position where I can contribute code, learn from others, and grow with real-world challenges.
+ Currently looking for a parttime position up to 30 hours.
 
-**Tech I’m using:** Python, SQL, SQLite, Git, VSCode, JavaScript, HTML, CSS, Windows, WSL
+**Tech I’m using:** Python, SQL, SQLite, Git, VSCode, JavaScript, HTML, CSS, Windows, WSL, Whatever i need to solve a problem
 
-Let’s work together if you’re looking for a motivated junior who’s still learning, but curious, reliable, and not afraid to figure things out.
-
+Let’s work together if you’re looking for a motivated junior who’s curious, reliable, and not afraid to figure things out.
